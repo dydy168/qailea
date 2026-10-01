@@ -1,0 +1,6 @@
+{
+  "name": "K.N.S.K Security Digital Platform",
+  "description": "Enterprise digital platform for K.N.S.K Security Co., Ltd. — professional private security services across all 25 provinces in Cambodia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
